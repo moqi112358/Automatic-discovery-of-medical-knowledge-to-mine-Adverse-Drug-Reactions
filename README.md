@@ -1,1 +1,1 @@
-# Automatic-discovery-of-medical-knowledge-to-mine-Adverse-Drug-Reactions
+# Knowledge graph for Adverse Drug Reactions
